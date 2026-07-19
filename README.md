@@ -26,9 +26,31 @@
 
 ## 📁 仓库结构
 nlp-learning-record/
-├── learn/     
+├── learn/
 |    ├── learn_something/ # 从简单代码示例学习，加深理解，并完成对应的练习。
 |    └── learn_new/ # 了解学习新知识
 ├── practice/ # 做一些项目练习（先简单再复杂）
 ├── daily-logs/ # 每日学习日志
 └── datasets/ # 测试数据集
+
+---
+
+## 🛠️ 环境配置
+
+- Python 3.10+
+- PyTorch 2.0+
+- Transformers
+- 其他依赖见各项目的 requirements.txt
+
+---
+
+## 📊 学习统计
+
+- 累计学习天数：0 天
+- 完成项目：0 个
+- 阅读论文：0 篇
+- 代码提交：0 次
+
+---
+
+📧 有问题欢迎提 Issue 交流！
