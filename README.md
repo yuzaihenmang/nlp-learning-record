@@ -25,13 +25,13 @@
 ---
 
 ## 📁 仓库结构
-nlp-learning-record/
-├── learn/
-|    ├── learn_something/ # 从简单代码示例学习，加深理解，并完成对应的练习。
-|    └── learn_new/ # 了解学习新知识
-├── practice/ # 做一些项目练习（先简单再复杂）
-├── daily-logs/ # 每日学习日志
-└── datasets/ # 测试数据集
+nlp-learning-record/<br>
+├── learn/<br>
+├    ├── learn_something/ # 从简单代码示例学习，加深理解<br>
+├    └── learn_new/ # 了解学习新知识<br>
+├── practice/ # 做一些项目练习（先简单再复杂）<br>
+├── daily-logs/ # 每日学习日志<br>
+└── datasets/ # 测试数据集<br>
 
 ---
 
